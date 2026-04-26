@@ -2,7 +2,6 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-
 # COMP110 Data Analysis: Course Pacing and Student Understanding
 
 ## Summary of Analysis
@@ -13,6 +12,9 @@ I used Python utility functions to load and filter the survey data, focusing on 
 
 ## Visualizations
 
+![Pace Distribution](static/imgs/pace_distribution.png)
+![Pace vs Understanding](static/imgs/pace_vs_understanding.png)
+![High Pace Understanding](static/imgs/high_pace_understanding.png)
 
 
 ## Conclusion
